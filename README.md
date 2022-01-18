@@ -1,4 +1,7 @@
 # Classification
+My data mining project
+Train data with classifiers
+SVM NB KNN DT Clustring
 required packages : numpy and sklearn
 
 main menu
